@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svnroot/pypipa/!svn/ver/7/widgets
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/pypipa/!svn/ver/1/widgets/__init__.py
+END
+widget.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/pypipa/!svn/ver/1/widgets/widget.py
+END
+widget_new_game.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/pypipa/!svn/ver/7/widgets/widget_new_game.py
+END
+widget_menu.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/pypipa/!svn/ver/7/widgets/widget_menu.py
+END

@@ -1,0 +1,13 @@
+main.py
+
+widgets_master.py: Manages how many widgets there are, organizes the screen
+
+widgets (one or more):
+w_startmenu.py: Shows a menu with the following options: New Game, Multiplayer, Highscores, Settings, Exit
+w_settings.py: Shows the settings: The 4 keys (default cursorkeys) for 1 or 2 players
+w_highscores.py: Handles new highscores and shows old ones
+w_new_game.py: Settings for new game: how many games (1-4), what kind of games, how many local players (1 or 2)
+w_multiplayer.py: Host or join --> IP or PYPIPA-Server?
+w_multiplayer_host.py: Like w_new_game.py with some multiplayer options: show ip, show playerlist (1-4), bann players, set password
+w_multiplayer_join.py: Like w_multiplayer_host.py without a changing possibility, ready button.
+w_multiplayer_web.py: screen with opend games
